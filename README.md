@@ -11,7 +11,7 @@ works with
 ## Finished App
 I know.. it looks plain but all starts with the login screen, this will be updated XD
 
-<img src="https://github.com/Yuweh/Instagram.Clone/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-05-06%20at%2006.31.45.png" width="400"> 
+<img src="https://github.com/Yuweh/Instagram.Clone/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-05-06%20at%2006.31.45.png" width="400">  <img src="https://github.com/Yuweh/Instagram.Clone/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-05-06%20at%2006.31.52.png" width="400"> 
 
 
 
